@@ -1,7 +1,6 @@
 
 header
 {
-    
    text-align: center;
    margin-left: auto;
    margin-right: auto;
@@ -26,7 +25,6 @@ img
 i
 {
     margin: 2%;
-    
 }
 body
 {
@@ -35,7 +33,6 @@ body
     background-image: url(sfondo.png);
     background-size: cover;
     background-attachment: fixed;
-    
 }
 main
 {
@@ -91,8 +88,8 @@ table, th, td
 {
     margin-top: 2em;
     border: 1px solid black;
-    margin-left: 2em;
-    margin-right: 5em;
+    margin-left: auto;
+    margin-right: auto;
 }
 .news
 {
