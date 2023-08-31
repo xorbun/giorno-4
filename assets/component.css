@@ -119,8 +119,6 @@ frame
 h4
 {
     text-align: right;
-    
-
 }
 a:active
 {
@@ -129,7 +127,6 @@ a:active
 .important
 {
    padding: 0;
-   
    color: rgb(203, 60, 177);
 }
 
