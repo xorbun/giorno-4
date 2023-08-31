@@ -1,0 +1,135 @@
+
+header
+{
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+   width: 20%;
+   height: 15%;
+   background-color: rgba(79, 148, 176, 0.884);
+   border: inset black;
+   box-sizing: border-box;
+   min-width: 30%;
+   max-width: 5em;
+   margin-bottom: 1em;
+   border-radius: 1%;
+}
+img
+{
+  max-width: 15em;
+}
+.menu
+{
+    margin-top: 5%;
+}
+i
+{
+    margin: 2%;
+    
+}
+body
+{
+    
+    max-width: 100%;
+    background-image: url(sfondo.png);
+    background-size: auto;
+    background-attachment: fixed;
+    background-size: cover;
+}
+main
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    background-color: aliceblue;
+    border: 1px;
+    text-align: center;
+    border-radius: 1%;
+}
+h1
+{
+    
+    font-weight: bold;
+    font-size: 200%;
+    padding: 1em;
+}
+span
+{
+    
+    
+    font-weight: lighter ;
+    color: gray;
+    padding: 2em;
+}
+h4
+{
+    margin-top: 2em;
+    text-align: left;
+    font-size: 1.2em;
+    margin-left: 1em;
+    padding: 0.3em;
+}
+.info
+{
+    list-style-type: circle;
+    margin-top: 2em;
+    text-align: left;
+    margin-left: 2em;
+}
+ol{
+    list-style-type: decimal;
+    padding: 2em;
+    text-align:left ;
+}
+li
+{
+    padding: 0.2em;
+}
+table, th, td
+{
+    
+    margin-top: 2em;
+    border: 1px solid black;
+    margin-left: 2em;
+    margin-right: 5em;
+    
+}
+.news
+{
+    margin-left: 1em;
+    margin-right: 1em;
+    background-color: rgba(128, 128, 128, 0.332);
+    text-align: center;
+    margin-top: 2em;
+
+}
+frame
+{
+    max-width: 15em;
+    
+}
+.article
+{
+    margin-left: 1em;
+    margin-right: 1em;
+    background-color: gainsboro;
+    text-align: left;
+    padding: 1em;
+}
+h4
+{
+    text-align: right;
+    
+
+}
+a:active
+{
+    color: aqua;
+}
+.important
+{
+   padding: 0;
+   
+   color: rgb(203, 60, 177);
+}
+
