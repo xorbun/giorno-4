@@ -49,7 +49,7 @@ h1
 {
     
     font-weight: bold;
-    font-size: 200%;
+    font-size: auto;
     padding: 1em;
 }
 span
