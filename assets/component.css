@@ -1,20 +1,20 @@
 
 header
 {
-    
-    background-size: auto;
    text-align: center;
+   background-size: auto;
    margin-left: auto;
    margin-right: auto;
    width: 20%;
    height: 15%;
-   background-color: rgba(79, 148, 176, 0.884);
+   background-color: rgb(79, 148, 176);
    border: inset black;
    box-sizing: border-box;
    min-width: 30%;
    max-width: 5em;
    margin-bottom: 1em;
    border-radius: 1%;
+   color: white;
 }
 img
 {
@@ -44,7 +44,7 @@ main
     background-color: aliceblue;
     border: 1px;
     text-align: center;
-    border-radius: 1%;
+  
 }
 h1
 {
@@ -92,10 +92,12 @@ table, th, td
     border: 1px solid black;
     margin-left: auto;
     margin-right: auto;
+    padding: 1em;
 }
 th
 {
-    background-color: rgb(90, 90, 212);   
+    background-color: rgb(82, 82, 225);  
+     
     color: white; 
 }
 .news
@@ -106,9 +108,10 @@ th
     text-align: center;
     margin-top: 2em;
 }
-frame
+iframe
 {
-    max-width: 15em;
+    border: 2px;
+    border-radius: 2em;
 }
 .article
 {
@@ -132,4 +135,11 @@ a:active
 {
    padding: 0;
    color: rgb(203, 60, 177);
+}
+.box
+{
+    margin-left: 1em;
+    margin-right: 1em;
+    background-color: rgb(66, 131, 131);
+    padding: 1em;
 }
