@@ -29,7 +29,6 @@ i
 }
 body
 {
-    
     max-width: 100%;
     background-image: url(sfondo.png);
     background-size: auto;
@@ -76,7 +75,8 @@ h4
     text-align: left;
     margin-left: 2em;
 }
-ol{
+ol
+{
     list-style-type: decimal;
     padding: 2em;
     text-align:left ;
@@ -87,12 +87,10 @@ li
 }
 table, th, td
 {
-    
     margin-top: 2em;
     border: 1px solid black;
     margin-left: 2em;
     margin-right: 5em;
-    
 }
 .news
 {
@@ -101,12 +99,10 @@ table, th, td
     background-color: rgba(128, 128, 128, 0.332);
     text-align: center;
     margin-top: 2em;
-
 }
 frame
 {
     max-width: 15em;
-    
 }
 .article
 {
